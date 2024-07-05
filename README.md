@@ -8,9 +8,9 @@ This Call Center Analytics Dashboard in Power BI offers a comprehensive overview
 
 # Key Features:
 
-# Total Calls: Displays the total number of calls received.
-# Call Duration: Shows total call duration in hours and average call duration in minutes.
-# Responded Call Rate: Indicates the percentage of calls that were responded to.
+## Total Calls: Displays the total number of calls received.
+## Call Duration: Shows total call duration in hours and average call duration in minutes.
+## Responded Call Rate: Indicates the percentage of calls that were responded to.
 # Calls by Day: Visualizes the number of calls received each day of the week.
 # Geographical Distribution: Maps call distribution across different states.
 # Calls by Reason: Breaks down calls based on different reasons such as billing questions, service outages, and payments.
